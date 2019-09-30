@@ -6,7 +6,7 @@
 
 <h1 align="center">
   SVMR GAME</br>
-  <sub>Il gioco viralissimo di Santa Vitu Mia Reloaded</sub>
+  <sub>Il gioco viralissimo di Santu Vitu Mia Reloaded</sub>
 </h1>
   
 <p align="center">
@@ -94,7 +94,7 @@ https://www.lascuolaopensource.xyz
 
 http://www.lascuolaopensource.xyz/xyz-exfadda
 
-https://www.santavitumia.it
+https://www.santuvitumia.it
 
 
 ***
